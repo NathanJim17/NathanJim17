@@ -8,7 +8,7 @@ I am an **EECS & Bioengineering** student at **UC Berkeley** with a focus on dee
 
 ### 🛠 Tech Stack
 * **Languages:** Python, JavaScript, TypeScript, MATLAB, HTML/CSS, Tailwind.
-* **Technologies:** React, Next.js, Node.js, FastAPI, PyTorch, Pandas, SQL, Firebase, Docker, MongoDB.
+* **Technologies:** React, Next.js, Node.js, Express.js, FastAPI, PyTorch, Pandas, SQL, Firebase, Docker, MongoDB.
 
 ---
 Based in Anaheim / Berkeley, CA 
